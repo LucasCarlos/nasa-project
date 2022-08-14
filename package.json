@@ -25,10 +25,7 @@
     "url": "https://github.com/LucasCarlos/nasa-project/issues"
   },
   "homepage": "https://github.com/LucasCarlos/nasa-project#readme",
-  "dependencies": {
-    "axios": "^0.27.2",
-    "dotenv": "^16.0.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "concurrently": "^7.0.0"
   }
